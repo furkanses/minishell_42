@@ -191,14 +191,6 @@ minishell$ ls | grep minishell > out.txt
 
 ---
 
-# Gelecek Geliştirmeler
-
-- Komut tamamlama  
-- Renkli prompt  
-- Daha gelişmiş hata yönetimi  
-
----
-
 # Lisans
 
 Bu proje, 42 okulu minishell konusu baz alınarak geliştirilmiştir.
